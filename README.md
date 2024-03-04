@@ -1,8 +1,8 @@
 ## Our Mini Jam Submission
 A game where a dragon controls a kite to catch fish-birds out of the sky!
 
-# Birding: Dragon Valley Kiting
- 
+ ![Logo](https://github.com/kadirlofca/birding-dragon-valley-kiting/assets/48933801/7f4f622c-7fa0-44c7-9855-6a81a232c001)
+
 Use your kite to catch fish-birds from the depths of Dragon Valley to outer space!
 
 # Controls
@@ -10,6 +10,12 @@ Press spacebar to launch your kite.
 Move your kite with WASD.
 Catch fish-birds by hovering your kite over them.
 Press spacebar again to land your kite.
+
+![BDVK_Catch](https://github.com/kadirlofca/birding-dragon-valley-kiting/assets/48933801/c8652826-602f-4085-80f8-4b144a5f58ee)
+
+![BDVK_SnowHouses](https://github.com/kadirlofca/birding-dragon-valley-kiting/assets/48933801/be4d1bf3-40d5-460c-9f04-2e8f9e42536c)
+
+![BDVK_MountainHouses](https://github.com/kadirlofca/birding-dragon-valley-kiting/assets/48933801/aaa082b0-e79f-4743-bff8-a98d46a2902e)
 
 # Theme
 The theme of Mini Jam 153 was Fishing and the limitation was No Water. We decided birding would be a good alternative to fishing since there is no water. So we made a game where you can bird.
